@@ -110,5 +110,5 @@ VIBRATE = 6;<br/>
 <hr/>
 
 
-    
+contact info: vivid@entrylabs.org
     
