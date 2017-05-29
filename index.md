@@ -109,6 +109,11 @@ VIBRATE = 6;<br/>
     
 <hr/>
 
+### 데이터
+[2016 코딩파티 데이터 다운로드](http://download.play-entry.org/data/entry_activity_201610.tar.gz)
+
+
+<hr/>
 
 contact info: vivid@entrylabs.org
     
