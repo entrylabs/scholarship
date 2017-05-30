@@ -60,7 +60,7 @@ mongorestore를 통하여 복원 후 데이터 분석 하시는 것을 권장드
       * statements
 
 각 model의 명세는
-[entryjs](https://github.com/entrylabs/entryjs)에 정의된 [code.js](https://github.com/entrylabs/entryjs/blob/master/src/workspace/code.js) [thread.js](https://github.com/entrylabs/entryjs/blob/master/src/workspace/thread.js) [block.js](https://github.com/entrylabs/entryjs/blob/master/src/workspace/block.js) 참고
+[entryjs](https://github.com/entrylabs/entryjs)에 정의된 [code.js](https://github.com/entrylabs/entryjs/blob/master/src/workspace/code.js), [thread.js](https://github.com/entrylabs/entryjs/blob/master/src/workspace/thread.js), [block.js](https://github.com/entrylabs/entryjs/blob/master/src/workspace/block.js) 참고
 <hr />
 
 ### 커맨드 타입
@@ -109,7 +109,7 @@ VIBRATE = 6;<br/>
     
 <hr/>
 
-### 데이터
+### 데이터 다운로드 
 [2016 코딩파티 데이터 다운로드](http://download.play-entry.org/data/entry_activity_201610.tar.gz)
 
 
